@@ -1,0 +1,11 @@
+completed:
+  - name: Structure and Interpretation of Computer Programs
+    authors: Abelson and Sussman
+  - name: Be Here Now
+    author: Ram Dass
+queued:
+  - name: "Operating Systems: Three Easy Pieces"
+    authors: Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau
+    link: http://pages.cs.wisc.edu/~remzi/OSTEP/
+wishlist: []
+
